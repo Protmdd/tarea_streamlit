@@ -11,6 +11,7 @@ de una bodega local en Miraflores, Lima, durante el primer semestre de 2024.
 
 tarea_streamlit/
 ├── app.py
+
 ├── requirements.txt
 ├── README.md
 ├── data/
