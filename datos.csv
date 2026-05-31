@@ -1,0 +1,24 @@
+fecha,producto,categoria,cantidad,precio_unitario,total,vendedor,distrito
+2024-01-03,Coca-Cola 1.5L,Bebidas,12,4.50,54.00,Ana Torres,Miraflores
+2024-01-03,Pan de molde,Panadería,5,6.00,30.00,Ana Torres,Miraflores
+2024-01-04,Aceite vegetal,Abarrotes,8,9.50,76.00,Luis Ramos,Miraflores
+2024-01-05,Leche Gloria,Lácteos,20,4.20,84.00,Ana Torres,Miraflores
+2024-01-06,Arroz Costeño 5kg,Abarrotes,15,18.00,270.00,Carlos Díaz,Miraflores
+2024-01-07,Inka Cola 2L,Bebidas,10,5.00,50.00,Luis Ramos,Miraflores
+2024-01-08,Mantequilla,Lácteos,7,8.50,59.50,Ana Torres,Miraflores
+2024-01-09,Galletas Oreo,Snacks,25,3.50,87.50,Carlos Díaz,Miraflores
+2024-01-10,Detergente Ariel,Limpieza,6,12.00,72.00,Luis Ramos,Miraflores
+2024-01-11,Agua San Luis,Bebidas,30,2.00,60.00,Ana Torres,Miraflores
+2024-02-01,Coca-Cola 1.5L,Bebidas,18,4.50,81.00,Ana Torres,Miraflores
+2024-02-02,Arroz Costeño 5kg,Abarrotes,20,18.00,360.00,Carlos Díaz,Miraflores
+2024-02-03,Leche Gloria,Lácteos,25,4.20,105.00,Luis Ramos,Miraflores
+2024-02-04,Galletas Oreo,Snacks,15,3.50,52.50,Ana Torres,Miraflores
+2024-02-05,Aceite vegetal,Abarrotes,10,9.50,95.00,Carlos Díaz,Miraflores
+2024-02-06,Agua San Luis,Bebidas,40,2.00,80.00,Luis Ramos,Miraflores
+2024-02-07,Detergente Ariel,Limpieza,8,12.00,96.00,Ana Torres,Miraflores
+2024-02-08,Pan de molde,Panadería,6,6.00,36.00,Carlos Díaz,Miraflores
+2024-02-09,Inka Cola 2L,Bebidas,14,5.00,70.00,Luis Ramos,Miraflores
+2024-02-10,Mantequilla,Lácteos,9,8.50,76.50,Ana Torres,Miraflores
+2024-03-01,Coca-Cola 1.5L,Bebidas,22,4.50,99.00,Carlos Díaz,Miraflores
+2024-03-02,Arroz Costeño 5kg,Abarrotes,18,18.00,324.00,Luis Ramos,Miraflores
+2024-03-03,Leche Gloria,Lácteos,30,4.20,126.00,Ana Torres
