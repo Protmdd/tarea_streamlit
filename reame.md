@@ -10,7 +10,12 @@ de una bodega local en Miraflores, Lima, durante el primer semestre de 2024.
 ## Estructura del proyecto
 
 tarea_streamlit/
-├── app.py├── requirements.txt├── README.md├── data/│   └── datos.csv└── evidencias/
+├── app.py
+├── requirements.txt
+├── README.md
+├── data/
+│   └── datos.csv
+└── evidencias/
 
 ## Como ejecutar
 
